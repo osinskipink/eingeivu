@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iejaabaey.tinkerfestival.de/sitemap.xml
